@@ -1,0 +1,15 @@
+[submodule "horizon"]
+	path = horizon
+	url = git@github.com:theocean154/horizon.git
+[submodule "django_openstack_auth"]
+	path = django_openstack_auth
+	url = git@github.com:theocean154/django_openstack_auth.git
+[submodule "keystone"]
+	path = keystone
+	url = git@github.com:derekchiang/keystone.git
+[submodule "python-openstackclient"]
+	path = python-openstackclient
+	url = git@github.com:derekchiang/python-openstackclient.git
+[submodule "python-keystoneclient"]
+	path = python-keystoneclient
+	url = git@github.com:derekchiang/python-keystoneclient.git

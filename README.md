@@ -27,5 +27,7 @@ See http://throwingfire.com/you-can-be-a-twofactor-hero/ for an
 example of two-factor authentication implemented in Python. Check
 [AWS Multi-Factor Authentication](http://aws.amazon.com/iam/details/mfa/) for an example of how two-factor authentication works in a cloud.
 
+# 2. Demo Code
+Code can be found on the add-tfa branches of the submodules here. To use, follow our (soon to be created) guide.
 
 
