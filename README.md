@@ -30,4 +30,26 @@ example of two-factor authentication implemented in Python. Check
 # 2. Demo Code
 Code can be found on the add-tfa branches of the submodules here. To use, follow our (soon to be created) guide.
 
+##Supported
+The following features are currently supported.
+  * Enable/disable two factor authentication for a user
+  * Enable/Disable two factor authentication for a user via the command line
+  * QR generation
+  * Generate TOTP shared code for Google Authenticator via the command line
+  * Disable login in Horizon if two factor enabled
+  * Separate two factor login if two factor enabled
+
+
+##Unsupported
+The following features are currently under active development.
+  * Two factor enable/disable via Horizon
+  * QR code display via Horizon
+  * Login redirection (display two factor code box during login)
+  * Project level two factor enable/disable
+  * Domain level two factor enable/disable
+
+
+
+
+
 
